@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-TERMINADO-yellowgreen">  
 <img src="https://img.shields.io/badge/PRUEBA-TECNICA-ff69b4">
 <img src="https://img.shields.io/badge/BOOTCAMP-JAVASCRIPT-blue">
-<img src="https://img.shields.io/badge/OTEC-EDUTECNOD-orange"> 
+<img src="https://img.shields.io/badge/OTEC-EDUTECNO-orange"> 
 <img src="https://img.shields.io/badge/APLICACION-WEB-blueviolet"> </p>
 
 ## Índice :paperclip:
