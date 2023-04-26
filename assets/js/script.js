@@ -1,4 +1,3 @@
-// $(document).ready(function () {
     function obtenerDigimon(name) {
         fetch(`https://digimon-api.vercel.app/api/digimon/name/${name}`)
             .then(response => response.json())
@@ -87,7 +86,6 @@
                         </div>
                     </div>`
 
-
                 if (digimon.level == "In Training") {
                     inTraining++
                 } else if (digimon.level == "Rookie") {
@@ -115,7 +113,7 @@
             var chart = new CanvasJS.Chart("chartContainer", {
                 animationEnabled: true,
                 title: {
-                    text: "Digimon according to level"
+                    text: "Clasificación por nivel"
                 },
                 data: [{
                     type: "pie",
@@ -141,10 +139,4 @@
         .catch(error => console.log(error))
     }
 
-    obtenerTodosDigimon()
-
-    
-
-    
-
-// })
+    obtenerTodosDigimon();
