@@ -25,7 +25,7 @@ Implementa consumo de API Digimos para hacerla dinámica e incorporar eventos pa
 
 ## Requerimientos :monocle_face:
 
-- Consumir la API gratuita Digimon (https://digimon-api.vercel.app/)
+- Consumir la API gratuita [Digimon](https://digimon-api.vercel.app/)
 - Evaluar cual es la ruta correspondiente para poder realizar el ejercicio.
 - Mostrar el nombre, la imagen y el nivel del Digimon.
 - Mostrar un listado de Digimon y a la vez, el usuario podrá observar uno específicamente.
